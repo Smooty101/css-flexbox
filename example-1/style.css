@@ -15,7 +15,12 @@ body{
 
 /* menu base styles */
 
+nav{background: #333;
+}
+
+nav ul{
+list-style-type: none;
+padding:0;
+}
 
 
-
-/* flex styles */
